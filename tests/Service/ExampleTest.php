@@ -1,10 +1,10 @@
 <?php
 
-namespace JorisRos\BoilerPlateBundle\Tests\Service;
+namespace JorisRos\CloudDatabaseBundle\Tests\Service;
 
 require_once(__DIR__ . '/../../vendor/autoload.php');
 
-use JorisRos\BoilerPlateBundle\Service\Example;
+use JorisRos\CloudDatabaseBundle\Service\Example;
 use PHPUnit\Framework\TestCase;
 
 class ExampleTest extends TestCase

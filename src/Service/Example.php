@@ -1,6 +1,6 @@
 <?php
 
-namespace JorisRos\BoilerPlateBundle\Service;
+namespace JorisRos\CloudDatabaseBundle\Service;
 
 class Example
 {

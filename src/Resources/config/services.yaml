@@ -1,4 +1,4 @@
 services:
   jorisros.service.example:
-    class: JorisRos\BoilerPlateBundle\Service\Example
+    class: JorisRos\CloudDatabaseBundle\Service\Example
     public: true

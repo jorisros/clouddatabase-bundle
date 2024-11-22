@@ -1,12 +1,12 @@
 <?php
 
-namespace JorisRos\BoilerPlateBundle;
+namespace JorisRos\CloudDatabaseBundle;
 
-use JorisRos\BoilerPlateBundle\DependencyInjection\BoilerPlateBundleExtension;
+use JorisRos\CloudDatabaseBundle\DependencyInjection\BoilerPlateBundleExtension;
 use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class BoilerPlateBundle extends Bundle
+class CloudDatabaseBundle extends Bundle
 {
     public function getContainerExtension(): ?ExtensionInterface
     {

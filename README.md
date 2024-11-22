@@ -1,5 +1,5 @@
-# BoilerPlateBundle
-This libary is an boilerplate for writing new bundles in Symfony.
+# CloudDatabaseBundle
+This bundle enables you to access Cloud database
 
 ## Usage
 Run the following command to add the bundle to your project.
